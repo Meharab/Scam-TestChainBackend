@@ -30,7 +30,7 @@
     "crypto": "^1.0.1",
     "express": "^4.22.1",
     "fs": "^0.0.1-security",
-    "morgan": "^1.11.0",
+    "morgan": "^1.12.1",
     "request": "^2.88.2",
     "sqlite3": "^6.0.1",
     "web3-eth-contract": "^4.2.0"
